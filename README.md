@@ -28,7 +28,7 @@
 
 |Integrante|Modulo 1|Modulo 2|Modulo 3|Modulo 4|Modulo 5|
 |------|------|------|------|------|
-|Gianella Albarracin|[M1](https://github.com/Gianella-albarracin/Modulo1)|[M2]()|[M3]()|[M4]()|[M5]()|
+|Gianella Albarracin|[M1](https://github.com/Gianella-albarracin/Modulo1)|[M2](https://github.com/Gianella-albarracin/Modulo2)|[M3](https://github.com/Gianella-albarracin/Modulo3)|[M4](https://github.com/Gianella-albarracin/Modulo4)|[M5](https://github.com/Gianella-albarracin/Modulo5)|
 |Tiago Friscolanti|[M1]()|[M2]()|[M3]()|[M4]()|[M5]()|
 |Luciano Migoni|[M1]()|[M2]()|[M3]()|[M4]()|[M5]()|
 |Emiliano Ochoa|[M1]()|[M2]()|[M3]()|[M4]()|[M5]()|
