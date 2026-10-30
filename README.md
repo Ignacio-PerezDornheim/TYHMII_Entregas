@@ -6,12 +6,12 @@
 
 ##### Integrantes:
 
-[Gianella Albarracin](https://github.com/Gianella-albarracin)  
-[Tiago Friscolanti](https://github.com/tiago-friscolanti) 
-[Luciano Migoni](https://github.com/Luciano-Migoni)  
-[Emiliano Ochoa](https://github.com/Emiliano-Ochoa) 
-[Ignacio Perez](https://github.com/Ignacio-PerezDornheim)  
-[Genaro Sfrede](https://github.com/genaro-sfrede)  
+- [Gianella Albarracin](https://github.com/Gianella-albarracin)
+- [Tiago Friscolanti](https://github.com/tiago-friscolanti)
+- [Luciano Migoni](https://github.com/Luciano-Migoni)
+- [Emiliano Ochoa](https://github.com/Emiliano-Ochoa)
+- [Ignacio Perez](https://github.com/Ignacio-PerezDornheim)
+- [Genaro Sfrede](https://github.com/genaro-sfrede)
   
 |Integrante|Legajo|Correo|Telefono|
 |----|----|----|----|
