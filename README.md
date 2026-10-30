@@ -1,4 +1,4 @@
-# TYHMII_Entregas
+<img width="1774" height="410" alt="image" src="https://github.com/user-attachments/assets/6acc9de9-a909-4dfc-9cb1-cec9b2c7c43f" /># TYHMII_Entregas
 
 ### Grupo "Actitud Positiva :)"
 
@@ -27,7 +27,7 @@
 ### Enlaces de Entregas
 
 |Integrante|Modulo 1|Modulo 2|Modulo 3|Modulo 4|Modulo 5|
-|------|------|------|------|------|
+|------|------|------|------|------|------|
 |Gianella Albarracin|[M1](https://github.com/Gianella-albarracin/Modulo1)|[M2](https://github.com/Gianella-albarracin/Modulo2)|[M3](https://github.com/Gianella-albarracin/Modulo3)|[M4](https://github.com/Gianella-albarracin/Modulo4)|[M5](https://github.com/Gianella-albarracin/Modulo5)|
 |Tiago Friscolanti|[M1](https://github.com/tiago-friscolanti)|[M2](https://github.com/tiago-friscolanti/MOD_2)|[M3](https://github.com/tiago-friscolanti/MOD_3)|[M4](https://github.com/tiago-friscolanti/MOD_4)|[M5](https://github.com/tiago-friscolanti/MOD_5)|
 |Luciano Migoni|[M1]()|[M2]()|[M3]()|[M4]()|[M5]()|
