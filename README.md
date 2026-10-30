@@ -30,7 +30,7 @@
 |------|------|------|------|------|------|
 |Gianella Albarracin|[M1](https://github.com/Gianella-albarracin/Modulo1)|[M2](https://github.com/Gianella-albarracin/Modulo2)|[M3](https://github.com/Gianella-albarracin/Modulo3)|[M4](https://github.com/Gianella-albarracin/Modulo4)|[M5](https://github.com/Gianella-albarracin/Modulo5)|
 |Tiago Friscolanti|[M1](https://github.com/tiago-friscolanti/MOD_1)|[M2](https://github.com/tiago-friscolanti/MOD_2)|[M3](https://github.com/tiago-friscolanti/MOD_3)|[M4](https://github.com/tiago-friscolanti/MOD_4)|[M5](https://github.com/tiago-friscolanti/MOD_5)|
-|Luciano Migoni|[M1]()|[M2]()|[M3]()|[M4]()|[M5]()|
+|Luciano Migoni|[M1](https://github.com/Luciano-Migoni/MODULO-1)|[M2](https://github.com/Luciano-Migoni/MODULO-2)|[M3](https://github.com/Luciano-Migoni/MODULO-3)|[M4](https://github.com/Luciano-Migoni/MODULO-4)|[M5](https://github.com/Luciano-Migoni/MODULO-5)|
 |Emiliano Ochoa|[M1](https://github.com/Emiliano-Ochoa/madulo_1)|[M2](https://github.com/Emiliano-Ochoa/modulo_2)|[M3](https://github.com/Emiliano-Ochoa/modulo_3)|[M4](https://github.com/Emiliano-Ochoa/modulo_4)|[M5](https://github.com/Emiliano-Ochoa/modulo_5)|
 |Ignacio Perez|[M1](https://github.com/Ignacio-PerezDornheim/Modulo-1)|[M2](https://github.com/Ignacio-PerezDornheim/Modulo-2)|[M3](https://github.com/Ignacio-PerezDornheim/Modulo-3)|[M4](https://github.com/Ignacio-PerezDornheim/Modulo-4)|[M5](https://github.com/Ignacio-PerezDornheim/Modulo-5)|
 |Genaro Sfrede|[M1](https://github.com/genaro-sfrede/Modulo-1)|[M2](https://github.com/genaro-sfrede/Modulo-2)|[M3](https://github.com/genaro-sfrede/Modulo-3)|[M4](https://github.com/genaro-sfrede/Modulo-4)|[M5](https://github.com/genaro-sfrede/Modulo-5)|
