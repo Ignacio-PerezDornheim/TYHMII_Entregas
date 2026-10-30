@@ -1,4 +1,4 @@
-<img width="1774" height="410" alt="image" src="https://github.com/user-attachments/assets/6acc9de9-a909-4dfc-9cb1-cec9b2c7c43f" /># TYHMII_Entregas
+# TYHMII_Entregas
 
 ### Grupo "Actitud Positiva :)"
 
