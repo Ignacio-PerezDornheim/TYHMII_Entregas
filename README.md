@@ -4,7 +4,7 @@
 
 ---
 
-##### Integrantes:
+####### Integrantes:
 
 [Gianella Albarracin](https://github.com/Gianella-albarracin)  
 [Tiago Friscolanti](https://github.com/tiago-friscolanti) 
